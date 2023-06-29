@@ -1,6 +1,5 @@
 # Python-Lambda-programs
-#1.double given number
-#and sum of given number
+#1.double numbers and sum numbers
 l=lambda a,b:a+b
 m=lambda a:2*a
 n=int(input('n1'))
